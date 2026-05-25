@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Sasankar</h1>
-<h3 align="center">📊 Gen AI\ML Developer | Data Analyst | BI Enthusiast</h3>
+<h3 align="center">📊 Business Analyst | Data Analyst | BI Enthusiast</h3>
 
 <!-- Typing Animation -->
 <p align="center">
